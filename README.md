@@ -1,0 +1,1 @@
+## This is a simple React project that show how to connect to a wallet. React context is used to save the global wallet and provider information.
